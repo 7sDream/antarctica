@@ -2,7 +2,7 @@
 
 Anatarctica maps based on [leaflet.js](http://leafletjs.com/), [proj4leaflet](http://kartena.github.io/Proj4Leaflet/) and images from [GIBS of NASA](https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs).
 
-[Demo site](7sdream.github.io/antarctica)
+[Demo site](https://7sdream.github.io/antarctica)
 
 ## Build Setup
 
