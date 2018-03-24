@@ -2,10 +2,12 @@ module.exports = [
   {
     layer: 'VIIRS_SNPP_Brightness_Temp_BandI5_Day',
     tileMatrixSet: '250m',
+    maxNativeZoom: 5,
   },
   {
     layer: 'VIIRS_SNPP_Brightness_Temp_BandI5_Night',
     tileMatrixSet: '250m',
+    maxNativeZoom: 5,
   },
   {
     layer: 'MODIS_Terra_Brightness_Temp_Band31_Day',
@@ -68,13 +70,16 @@ module.exports = [
   {
     layer: 'SCAR_Land_Mask',
     tileMatrixSet: '250m',
+    maxNativeZoom: 5,
   },
   {
     layer: 'Graticule',
     tileMatrixSet: '250m',
+    maxNativeZoom: 5,
   },
   {
     layer: 'Coastlines',
     tileMatrixSet: '250m',
+    maxNativeZoom: 5,
   },
 ]
