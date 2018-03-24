@@ -29,7 +29,9 @@ npm run build --report
 3. Overlay opicity
 4. Show date
 
-Notice: Show date default will be current date, so many main layer will be incomplete, so you can choose a early date to get a great view.
+Notice: Default show date is current date, so many main layer may be incomplete, you can choose a early date to get a great view.
+
+I prefer `BlueMarble_ShadedRelief_Bathymetry` with `AMSR2_Sea_Ice_Concentration_12km`, show date can be 2 or 3 days before today.
 
  ## License
 
